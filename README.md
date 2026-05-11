@@ -33,6 +33,12 @@ This project demonstrates the design and implementation of a computer network us
 
 <img width="1908" height="1006" alt="Lan topology" src="https://github.com/user-attachments/assets/964cbb86-94ca-49ef-b820-1798c5b3d40f" />
 
+<img width="953" height="426" alt="Ethical Hacking,introduction" src="https://github.com/user-attachments/assets/9d902e4a-099a-417e-a997-272623f46852" />
+
+
+<img width="953" height="427" alt="completion status" src="https://github.com/user-attachments/assets/435f6976-4707-48c9-8580-1d540dc0d030" />
+
+
 ## AUTHOR
 Anyanwu Chidera
 Field: Mass Communication (IT Training in Networking & Cybersecurity)
