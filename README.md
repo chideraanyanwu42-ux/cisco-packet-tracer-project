@@ -1,4 +1,4 @@
-
+<img width="1901" height="1002" alt="Screenshot 2026-05-10 125524" src="https://github.com/user-attachments/assets/acd667c1-9a21-4c6c-b438-1b6e0752bd67" /><img width="1901" height="1002" alt="Screenshot 2026-05-10 125524" src="https://github.com/user-attachments/assets/1a4006d9-ca88-45fd-ad68-3a07b8ae76d1" />
 # Cisco Networking and Security Lab Project
 
 ## OVERVIEW 
@@ -26,13 +26,14 @@ This project demonstrates the design and implementation of a computer network us
 - Understood the importance of penetration testing in securing systems
 
 #PROJECT PREVIEWS
-LAN Topology
-<img width="1908" height="1006" alt="Screenshot 2026-05-10 124924" src="https://github.com/user-attachments/assets/9f5556dc-827d-48f0-bf90-72f999e0ddf9" />
+<img width="1901" height="1002" alt="router-config" src="https://github.com/user-attachments/assets/3e12f4ef-a736-4df3-bb2f-36ac4141e016" />
 
-WAN-NETWORK
-<img width="1901" height="1002" alt="Screenshot 2026-05-10 125524" src="https://github.com/user-attachments/assets/4398aedf-ab77-4209-a5d9-3cff234cc3e9" />
+<img width="1914" height="998" alt="LAN Network using dynamic method" src="https://github.com/user-attachments/assets/32581532-06d1-4846-91c6-71e890fd4e8b" />
 
-<img width="1914" height="998" alt="Screenshot 2026-05-10 125226" src="https://github.com/user-attachments/assets/38178bb2-ecb8-401e-baae-1d7cfa49fa97" />
+<img width="1908" height="1006" alt="Lan topology" src="https://github.com/user-attachments/assets/964cbb86-94ca-49ef-b820-1798c5b3d40f" />
+
+
+
 
 
 ## AUTHOR
