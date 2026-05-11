@@ -1,3 +1,4 @@
+
 # Cisco Networking and Security Lab Project
 
 ## OVERVIEW 
@@ -23,6 +24,12 @@ This project demonstrates the design and implementation of a computer network us
 -basic concepts of ethical hacking and cybersecurity
 - Studied common vulnerabilities and attack surfaces
 - Understood the importance of penetration testing in securing systems
+
+#PROJECT PREVIEWS
+
+<img width="1908" height="1006" alt="Screenshot 2026-05-10 124924" src="https://github.com/user-attachments/assets/9f5556dc-827d-48f0-bf90-72f999e0ddf9" />
+
+
 
 ## AUTHOR
 Anyanwu Chidera
