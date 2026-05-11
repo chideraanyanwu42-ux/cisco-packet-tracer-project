@@ -26,9 +26,13 @@ This project demonstrates the design and implementation of a computer network us
 - Understood the importance of penetration testing in securing systems
 
 #PROJECT PREVIEWS
-
+LAN Topology
 <img width="1908" height="1006" alt="Screenshot 2026-05-10 124924" src="https://github.com/user-attachments/assets/9f5556dc-827d-48f0-bf90-72f999e0ddf9" />
 
+WAN-NETWORK
+<img width="1901" height="1002" alt="Screenshot 2026-05-10 125524" src="https://github.com/user-attachments/assets/4398aedf-ab77-4209-a5d9-3cff234cc3e9" />
+
+<img width="1914" height="998" alt="Screenshot 2026-05-10 125226" src="https://github.com/user-attachments/assets/38178bb2-ecb8-401e-baae-1d7cfa49fa97" />
 
 
 ## AUTHOR
