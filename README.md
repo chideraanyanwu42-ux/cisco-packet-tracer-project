@@ -1,7 +1,7 @@
 
 # Cisco Networking and Security Lab Project
 
-##OVERVIEW
+## OVERVIEW
 
 This project demonstrates the design and implementation of a computer network using cisco packet tracer,and Cisco Networking Academy (NetAcad) labs. The network includes both local Area Network (LAN) and Wide Area Network (WAN) configuration connecting two different locations.and also security-focused exercises that demonstrate practical understanding of modern networking and secure communication systems.
 
